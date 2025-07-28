@@ -1,1 +1,1 @@
-#PennyPilot is a mern stack expense tracker Project
+PennyPilot is a mern stack expense tracker Project
